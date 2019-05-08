@@ -22,7 +22,7 @@ The firmware used is Grbl_ESP32. There is a special branch that supports the
 
 - [Schematic](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/blob/master/docs/schematic_v1.pdf)
 - [Gerber Files](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/tree/master/gerbers)
-- BOM (coming soon)
+- [BOM](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/blob/master/docs/BOM.csv)
 - [Source files (DipTrace)](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/tree/master/source)
 
 ### Getting Started
