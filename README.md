@@ -17,5 +17,6 @@ The firmware used is Grbl_ESP32. There is a special branch that supports the
 
 ### Getting Started
 
-- Wki for this design
+- [Wiki for this design](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/wiki)
 - [Wiki for Grbl_ESP32](https://github.com/bdring/Grbl_Esp32/wiki)
+- Getting one. I have a few extra, just ask for one via [this Issue.](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/issues/1) 
