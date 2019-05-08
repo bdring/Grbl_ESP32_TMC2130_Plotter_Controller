@@ -12,7 +12,8 @@ The firmware used is Grbl_ESP32. There is a special branch that supports the
 
 - Schematic
 - Gerber Files
-- BOM
+- BOM (coming soon)
+- Source files (DipTrace)
 
 ### Getting Started
 
