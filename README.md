@@ -4,6 +4,16 @@
 
 This is a simple controller for a Pen Plotter that uses Grbl_ESP32 as the firmware and TMC2130 stepper motor drivers in SPI mode. There is a hobby servo connector for pen up/down control. The PWM signal (3.3V TTL) on that could also be used to control a laser module.
 
+### Features
+
+- ESP32 Controller Socket
+- SD Card Socket (under ESP32)
+- (2) TMC2130 Stepper Driver Sockets (SPI Mode). Note: Non SPI drivers will not work.
+- (2) Limit switch connectors
+- Hobby Servo connector
+- Strong 5V 3A power supply
+- All the freaking awesome features of Grbl_ESP32
+
 ### Firmware
 
 The firmware used is Grbl_ESP32. There is a special branch that supports the 
