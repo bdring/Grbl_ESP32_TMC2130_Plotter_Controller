@@ -10,12 +10,12 @@ The firmware used is Grbl_ESP32. There is a special branch that supports the
 
 ### Open Source
 
-- Schematic
-- Gerber Files
+- [Schematic](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/blob/master/docs/schematic_v1.pdf)
+- [Gerber Files](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/tree/master/gerbers)
 - BOM (coming soon)
-- Source files (DipTrace)
+- [Source files (DipTrace)](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/tree/master/source)
 
 ### Getting Started
 
 - Wki for this design
-- Wiki for Grbl_ESP32
+- [Wiki for Grbl_ESP32](https://github.com/bdring/Grbl_Esp32/wiki)
