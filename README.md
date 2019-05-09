@@ -16,7 +16,7 @@ This is a simple controller for a Pen Plotter that uses Grbl_ESP32 as the firmwa
 
 ### Firmware
 
-The firmware used is Grbl_ESP32. There is a special branch that supports the 
+The firmware used is Grbl_ESP32. There is a special branch that supports the TMC2130.
 
 ### Open Source
 
