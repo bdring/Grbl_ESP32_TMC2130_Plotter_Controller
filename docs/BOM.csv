@@ -12,7 +12,7 @@ J5,"Connector, Header",Header 1x3,,,,,
 J7,"Connector, Barrel",,,,,,
 J8,"Socket, Micro SD",Micro SD Socket,Korean Hroparts Elec TF-01A,TF-01A,https://lcsc.com/product-detail/Connector-Card-Sockets_Korean-Hroparts-Elec-TF-01A_C91145.html,0.13,1
 L1,Inductor,Inductor 4.7uH 5.5A,Chilisin Elec,MHCI06030-4R7M-R8,https://lcsc.com/product-detail/Power-Inductors_Chilisin-Elec-MHCI06030-4R7M-R8_C108295.html,0.0875,1
-"R9,R10",Inductor,Inductor 4.7uH 5.5A,Chilisin Elec,MHCI06030-4R7M-R8,https://lcsc.com/product-detail/Power-Inductors_Chilisin-Elec-MHCI06030-4R7M-R8_C108295.html,0.0875,1
+"R9,R10",Resistor,100R,YAGEO,AC0805FR-07100RL,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100R-100R-1_C138274.html,0.003,2
 R13,Resistor,210k,YAGEO,AC0805FR-07210KL,https://lcsc.com/product-detail/Others_YAGEO-AC0805FR-07210KL_C228629.html,0.003,1
 R14,Resistor,40.2k,YAGEO,AC0805FR-0740K2L,https://lcsc.com/product-detail/Others_YAGEO-AC0805FR-0740K2L_C228820.html,0.004,1
 "R15,R16",Resistor,100k,YAGEO,AC0805FR-07100KL,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100KR-1003-1_C144587.html,0.003,2
