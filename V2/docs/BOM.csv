@@ -1,0 +1,20 @@
+RefDes,Description,Value,Manufacturer,Mfg P/N,Link,Price,Qty
+"C1,C5","Capacitor, Electrolytic",47u 35V,Nichicon,UWX1V470MCL1GB,https://www.digikey.com/short/p80qq5,0.15,5
+"C7,C8,C9","Capacitor, Ceramic",100nF 50V,Kemet,C0805C104K5RACAUTO,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET_C0805C104K5RACAUTO_100nF-104-10-50V-Car-level_C129641.html,0.011,8
+C10,"Capacitor, Ceramic",10uF,Taiyo Yuden,GMK316BJ106KL-T,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-GMK316BJ106KL-T_C92797.html,0.07,1
+C11,"Capacitor, Ceramic",22uF 6.3V,Taiyo Yuden,JMK316BJ226KL-T,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TAIYO-YUDEN_JMK316BJ226KL-T_22uF-226-10-6-3V_C92791.html,0.07,1
+C12,"Capacitor, Ceramic",150pF 50v 0805,CCTC,TCC0805X7R151K500BT,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0805X7R151K500BT_C282743.html,0.01,1
+"D1,D2","Diode, Schottkey","diode, Schottkey 3A",(MDD) Jiangsu Yutai Elec,(MDD) Jiangsu Yutai Elec,https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Jiangsu-Yutai-Elec-B340A_C64982.html,0.22,3
+"U6,J1","Connector, Header","ESP-32 Header Female 1x19 0.1""",,,"https://www.aliexpress.com/item/100Pcs-Per-Lot-2-54mm-Pitch-1x19-Pin-19-Pin-Female-Single-Row-Straight-Header-Strip/32760221364.html?spm=2114.search0104.3.2.68392db629Gevc&ws_ab_test=searchweb0_0,searchweb201602_7_10065_10130_10068_10890_10547_319_10546_317_10548_10545_10696_453_10084_454_10083_10618_10307_537_536_10902_10059_10884_10887_321_322_10103,searchweb201603_58,ppcSwitch_0&algo_expid=6c4c5b8f-d7fb-440b-b8e7-38060cec017f-0&algo_pvid=6c4c5b8f-d7fb-440b-b8e7-38060cec017f",0.35,3
+"J2,J4","Connector, Header","Header Male 1x4 0.1""",TE Connectivity,,https://lcsc.com/product-detail/Male-Header_2-54mm-1-4P-HeaderG-FRegular_C152150.html,0.017,2
+J3,"Connector, Header",Header 1x6,,,,,
+J5,"Connector, Header",Header 1x3,,,,,
+J7,"Connector, Barrel",,,,,,
+J8,"Socket, Micro SD",Micro SD Socket,Korean Hroparts Elec TF-01A,TF-01A,https://lcsc.com/product-detail/Connector-Card-Sockets_Korean-Hroparts-Elec-TF-01A_C91145.html,0.13,1
+L1,Inductor,Inductor 4.7uH 5.5A,Chilisin Elec,MHCI06030-4R7M-R8,https://lcsc.com/product-detail/Power-Inductors_Chilisin-Elec-MHCI06030-4R7M-R8_C108295.html,0.0875,1
+"R9,R10",Inductor,Inductor 4.7uH 5.5A,Chilisin Elec,MHCI06030-4R7M-R8,https://lcsc.com/product-detail/Power-Inductors_Chilisin-Elec-MHCI06030-4R7M-R8_C108295.html,0.0875,1
+R13,Resistor,210k,YAGEO,AC0805FR-07210KL,https://lcsc.com/product-detail/Others_YAGEO-AC0805FR-07210KL_C228629.html,0.003,1
+R14,Resistor,40.2k,YAGEO,AC0805FR-0740K2L,https://lcsc.com/product-detail/Others_YAGEO-AC0805FR-0740K2L_C228820.html,0.004,1
+"R15,R16",Resistor,100k,YAGEO,AC0805FR-07100KL,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_100KR-1003-1_C144587.html,0.003,2
+"U2,U3","Connector, Header","Header Female 1x8 0.1""",,,https://lcsc.com/product-detail/Female-Header_2-54mm-1-8P-Straight-Female-header_C27438.html,0.05,4
+U4,DC-DC Power Supply Controller,MP1584EN,Monolithic Power Systems,MP1584EN-LF-Z,https://lcsc.com/product-detail/DC-DC-Converters_MPS_MP1584EN-LF-Z_MP1584EN-LF-Z_C15051.html,0.28,1

@@ -25,6 +25,17 @@ The firmware used is Grbl_ESP32. There is a special branch that supports the
 - BOM (coming soon)
 - [Source files (DipTrace)](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/tree/master/source)
 
+### Version History
+
+- V2
+   - Moved X Limit Switch form GPIO 2 to 32. Works better on dev boards that have an LED on that pin.
+   - The footprint for the stepper drivers no include the diag pins
+   - Added jumpers to optional connect diag pins to limit pins
+   - Grounded TMC2130 N/C pin to make it compatible with TMC5160 drivers. The capacitor size is probably not ideal for use with the full capacity of the TMC5160, but should work.
+   - Added 5V output (fan connector)
+
+
+
 ### Getting Started
 
 - [Wiki for this design](https://github.com/bdring/Grbl_ESP32_TMC2130_Plotter_Controller/wiki)
